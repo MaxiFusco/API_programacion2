@@ -1,6 +1,6 @@
 package com.example.api.controller;
 
-import com.example.api.model.UserModel;
+import com.example.api.Entity.UserModel;
 import com.example.api.repository.IUserRepository;
 import com.example.api.services.AuthService;
 import com.fasterxml.jackson.core.JsonProcessingException;
